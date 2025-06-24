@@ -1,0 +1,20 @@
+/*!
+ * The buffer module from node.js, for the browser.
+ *
+ * @author   Feross Aboukhadijeh <https://feross.org>
+ * @license  MIT
+ */
+
+/*! ieee754. BSD-3-Clause License. Feross Aboukhadijeh <https://feross.org/opensource> */
+
+/**
+* (c) Iconify
+*
+* For the full copyright and license information, please view the license.txt
+* files at https://github.com/iconify/iconify
+*
+* Licensed under MIT.
+*
+* @license MIT
+* @version 2.1.0
+*/
